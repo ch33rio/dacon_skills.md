@@ -29,6 +29,13 @@ This is for teams that repeatedly do work such as:
 - [Lead notes to CRM rows sample](../samples/lead-notes-to-crm-demo.md)
 - [Spreadsheet-ready CSV template](../samples/crm-row-template.csv)
 
+## Start An Intake
+
+- [Public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1)
+- [Open a workflow audit request](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md)
+
+Use GitHub issues only for non-sensitive qualification details. Do not post credentials, private customer data, or production secrets.
+
 ## Boundaries
 
 I do not offer guaranteed sales results, investment advice, regulated decisioning, spam systems, credential misuse, scraping against site rules, or production-secret handling without a secure process.
