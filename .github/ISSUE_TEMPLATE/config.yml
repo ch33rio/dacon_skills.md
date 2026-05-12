@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Buy the $99 Workflow Audit
+    url: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+    about: Use this when you are ready to buy if the workflow fits the starter scope.
+  - name: Public Intake Thread
+    url: https://github.com/ch33rio/dacon_skills.md/issues/1
+    about: Ask non-sensitive qualification questions or post a lightweight workflow summary.
+  - name: Offer and Scope
+    url: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
+    about: Review the offer, deliverables, proof samples, and payment terms before submitting.
