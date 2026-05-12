@@ -24,8 +24,9 @@ This is for teams that repeatedly do work such as:
 - Written handoff notes so the workflow can be reused.
 - One revision within 3 days.
 
-## Sample Deliverable
+## Sample Deliverables
 
+- [Campaign notes to client recap sample](../samples/campaign-notes-to-client-recap.md)
 - [Lead notes to CRM rows sample](../samples/lead-notes-to-crm-demo.md)
 - [Spreadsheet-ready CSV template](../samples/crm-row-template.csv)
 
