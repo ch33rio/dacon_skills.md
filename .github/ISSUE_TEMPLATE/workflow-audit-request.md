@@ -1,10 +1,17 @@
 ---
 name: Workflow Audit Request
-about: Request a $99 AI workflow audit for one repeated operational task
+about: Request or buy a $99 AI workflow audit for one repeated operational task
 title: "Workflow audit request: "
 labels: ""
 assignees: ""
 ---
+
+## Buying intent
+
+Choose one:
+
+- [ ] Ready to buy the $99 starter if this workflow fits
+- [ ] Checking fit before deciding
 
 ## Repeated workflow
 
@@ -22,14 +29,32 @@ What should the cleaned-up output look like?
 
 Examples: Google Sheets, HubSpot, Salesforce, Notion, Zendesk, email, CSV, internal SOP.
 
+## Safe sample available
+
+Can you provide a sanitized sample after fit is confirmed?
+
+- [ ] Yes
+- [ ] No
+
 ## Timing
 
 When do you need the first small fix?
 
 ## Budget confirmation
 
-The starter offer is $99 for one workflow audit and one lightweight fix. Confirm whether that range is acceptable before sharing private details.
+The starter offer is $99 for one workflow audit and one lightweight fix.
+
+- [ ] The $99 starter range is acceptable
+- [ ] I need fit confirmed first
+
+## Payment handoff
+
+If the workflow fits and the $99 starter range is acceptable, ask for private payment handoff here:
+
+```text
+Please confirm fit and send the private payment handoff.
+```
 
 ## Private details
 
-Do not post secrets or sensitive customer data in a public issue. Use email for private examples: hoonso20@naver.com
+Do not post secrets, production credentials, private customer data, or confidential client examples in a public issue. Use email for private examples: hoonso20@naver.com
