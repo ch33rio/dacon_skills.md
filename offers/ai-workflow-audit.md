@@ -30,8 +30,9 @@ This is for teams that repeatedly do work such as:
 - [Lead notes to CRM rows sample](../samples/lead-notes-to-crm-demo.md)
 - [Spreadsheet-ready CSV template](../samples/crm-row-template.csv)
 
-## Start An Intake
+## Buy / Start
 
+- [How to buy the $99 workflow audit](../BUY.md)
 - [Public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1)
 - [Open a workflow audit request](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md)
 
