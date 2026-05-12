@@ -34,7 +34,10 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
 - Share packet: https://github.com/ch33rio/dacon_skills.md/blob/main/SHARE.md
+- Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 - Agency sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
+- Content handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/content-brief-to-production-handoff.md
+- B2B signal handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/b2b-signal-notes-to-crm-handoff.md
 - CRM sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/lead-notes-to-crm-demo.md
 - CSV template: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/crm-row-template.csv
 - Scope + invoice terms: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/starter-sow-invoice-template.md
