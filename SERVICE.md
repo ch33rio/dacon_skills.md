@@ -8,7 +8,7 @@ This is useful for small agencies, founders, creators, and operators who repeate
 
 Quick overview:
 
-https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
 
 ## Common Use Cases
 
@@ -30,7 +30,7 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b
 ## Public Proof
 
 - For hire page: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
-- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
+- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
 - Share packet: https://github.com/ch33rio/dacon_skills.md/blob/main/SHARE.md
@@ -41,18 +41,14 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b
 
 ## Start
 
-Use the structured buy form for non-sensitive qualification details and buying intent:
+Use direct email or the structured buy form for buying intent and non-sensitive qualification details:
 
-https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+- Email: hoonso20@naver.com
+- Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+- Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
 
-Public intake thread:
+Fastest buying signal: email `Ready to buy the $99 starter` to `hoonso20@naver.com`, submit the structured buy form, or comment on the public intake thread with the workflow, messy input, desired output, tools involved, and whether a safe sample is available. If it fits, payment handoff is confirmed privately before work starts.
 
-https://github.com/ch33rio/dacon_skills.md/issues/1
-
-Fastest buying signal: submit the structured buy form, or comment `Ready to buy the $99 starter` with the workflow, messy input, desired output, tools involved, and whether a safe sample is available. If it fits, payment handoff is confirmed privately before work starts.
-
-Do not post credentials, private customer data, production secrets, or confidential client examples in public GitHub issues.
-
-Private contact: hoonso20@naver.com
+Do not post credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues.
 
 Work starts only after the workflow is qualified, scope is agreed, and payment is received.
