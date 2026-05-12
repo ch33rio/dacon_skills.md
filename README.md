@@ -4,6 +4,7 @@ $99 starter offer for one repeated operational workflow. I turn one messy recurr
 
 Useful for teams that repeatedly turn messy notes, intake details, campaign observations, support examples, or spreadsheet rows into a cleaner output.
 
+- For hire: [AI workflow automation freelancer](FOR-HIRE.md)
 - Landing preview: [24-hour AI workflow audit page](https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html)
 - Ready to buy: use the [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml) or comment `Ready to buy the $99 starter` on the [public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) with non-sensitive workflow details.
 - How to buy: [Buy the $99 workflow audit](BUY.md)
