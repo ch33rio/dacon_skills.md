@@ -23,13 +23,17 @@ Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-a
 
 Agency sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 
-Start intake: https://github.com/ch33rio/dacon_skills.md/issues/1
+Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+
+Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
 
 Contact: hoonso20@naver.com
 
 ## Referral Ask
 
 Do you know an agency, creator, founder, or operator who repeats the same cleanup or reporting task every week? I have a $99 starter offer to map one workflow and deliver one reusable fix.
+
+If they are ready to buy, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
 ## Safe Boundaries
 
