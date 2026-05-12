@@ -4,7 +4,7 @@ This is the buying path for the 24-hour AI Workflow Audit + One Automation Fix.
 
 Quick overview:
 
-https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
 
 For hire page:
 
@@ -33,15 +33,16 @@ Not a fit:
 
 Use one of these paths:
 
+- Direct email: hoonso20@naver.com
+- Email ready-to-buy template: mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit
 - For hire overview: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 - Structured buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
 - General request form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
-- Private email: hoonso20@naver.com
 
 Fastest buying signal:
 
-If the $99 starter range is acceptable and the workflow is non-sensitive, use the structured buy form or comment on the public intake thread with:
+If the $99 starter range is acceptable and the workflow is non-sensitive, email `hoonso20@naver.com`, use the structured buy form, or comment on the public intake thread with:
 
 ```text
 Ready to buy the $99 starter.
