@@ -6,6 +6,9 @@ contact_links:
   - name: Preview the $99 Workflow Audit
     url: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
     about: Review the short landing preview with email and GitHub intake options before opening intake.
+  - name: Proof Sample Index
+    url: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+    about: Inspect sample deliverables before opening a buy or fit-check issue.
   - name: Buy the $99 Workflow Audit
     url: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
     about: Use this when you are ready to buy through GitHub if the workflow fits the starter scope.
