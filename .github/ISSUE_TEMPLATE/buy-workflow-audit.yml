@@ -7,7 +7,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, or confidential client examples.
+        Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, confidential client examples, or payment details.
+
+        After submitting, watch GitHub notifications for fit confirmation. For private examples or payment handoff, email hoonso20@naver.com and reference your GitHub issue.
 
   - type: checkboxes
     id: buying-intent
