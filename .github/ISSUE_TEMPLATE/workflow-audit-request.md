@@ -10,6 +10,12 @@ assignees: "ch33rio"
 
 If you prefer not to use a public GitHub issue, email the same ready-to-buy or fit-check details to hoonso20@naver.com.
 
+## Proof samples
+
+Review public sample deliverables before posting intake details:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+
 ## Buying intent
 
 Choose one:
