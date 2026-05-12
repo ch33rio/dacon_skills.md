@@ -14,6 +14,14 @@ For a quick overview, use the landing preview:
 
 https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
 
+For proof samples, use the sample index:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+
+For the offer and buying path in one place:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
+
 For non-sensitive qualification questions, use the public intake thread:
 
 https://github.com/ch33rio/dacon_skills.md/issues/1
