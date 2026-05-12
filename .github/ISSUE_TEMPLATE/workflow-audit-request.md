@@ -6,6 +6,10 @@ labels: "ai-workflow-audit"
 assignees: "ch33rio"
 ---
 
+## Direct private option
+
+If you prefer not to use a public GitHub issue, email the same ready-to-buy or fit-check details to hoonso20@naver.com.
+
 ## Buying intent
 
 Choose one:
@@ -57,4 +61,4 @@ Please confirm fit and send the private payment handoff.
 
 ## Private details
 
-Do not post secrets, production credentials, private customer data, or confidential client examples in a public issue. Use email for private examples: hoonso20@naver.com
+Do not post secrets, production credentials, private customer data, payment details, or confidential client examples in a public issue. Use email for private examples or payment setup: hoonso20@naver.com
