@@ -2,6 +2,10 @@
 
 A fixed-scope starter offer for small agencies, founders, creators, and operators who have one repeated manual workflow that should be easier to run.
 
+Quick overview:
+
+https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+
 ## Starter Price
 
 $99 for one small workflow audit and one lightweight fix.
@@ -32,6 +36,7 @@ This is for teams that repeatedly do work such as:
 
 ## Buy / Start
 
+- [Landing preview](https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html)
 - [Structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml)
 - [How to buy the $99 workflow audit](../BUY.md)
 - [Public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1)
