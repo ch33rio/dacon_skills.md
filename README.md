@@ -3,4 +3,4 @@
 
 ## Services
 
-- [24-hour AI Workflow Audit + One Automation Fix](offers/ai-workflow-audit.md) - $99 starter offer for one repeated workflow.
+- [24-hour AI Workflow Audit + One Automation Fix](offers/ai-workflow-audit.md) - $99 starter offer for one repeated workflow. Start with the [public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) or [request form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md).
