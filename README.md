@@ -9,6 +9,7 @@ $99 starter offer for one repeated operational workflow.
 Useful for teams that repeatedly turn messy notes, intake details, campaign observations, support examples, or spreadsheet rows into a cleaner output.
 
 - Service overview: [AI Workflow Automation Service](SERVICE.md)
+- How to buy: [Buy the $99 workflow audit](BUY.md)
 - Share packet: [AI workflow audit share packet](SHARE.md)
 - Offer: [24-hour AI Workflow Audit + One Automation Fix](offers/ai-workflow-audit.md)
 - Agency sample: [Campaign notes to client recap](samples/campaign-notes-to-client-recap.md)
