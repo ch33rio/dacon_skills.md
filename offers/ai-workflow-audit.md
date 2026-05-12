@@ -32,11 +32,12 @@ This is for teams that repeatedly do work such as:
 
 ## Buy / Start
 
+- [Structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml)
 - [How to buy the $99 workflow audit](../BUY.md)
 - [Public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1)
-- [Open a workflow audit request](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md)
+- [Open a general workflow audit request](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md)
 
-Fastest buying signal: if the $99 starter range is acceptable and the workflow is non-sensitive, comment on the public intake thread with:
+Fastest buying signal: if the $99 starter range is acceptable and the workflow is non-sensitive, use the structured buy form or comment on the public intake thread with:
 
 ```text
 Ready to buy the $99 starter.
