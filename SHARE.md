@@ -25,6 +25,8 @@ Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d35
 
 Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 
+Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+
 Agency sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 
 Ready-to-buy email: hoonso20@naver.com
@@ -38,6 +40,8 @@ Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
 Do you know an agency, creator, founder, or operator who repeats the same cleanup or reporting task every week? I have a $99 starter offer to map one workflow and deliver one reusable fix.
 
 If they want the offer, proof samples, and buying path in one place, send them to: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
+
+Proof samples: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 
 If they are ready to buy without using GitHub, they can email: hoonso20@naver.com
 
