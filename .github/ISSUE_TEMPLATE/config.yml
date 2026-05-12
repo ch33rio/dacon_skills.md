@@ -2,13 +2,13 @@ blank_issues_enabled: false
 contact_links:
   - name: For Hire: AI Workflow Automation Freelancer
     url: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
-    about: Start here if you want the $99 starter offer, proof samples, and buying path in one place.
+    about: Start here if you want the $99 starter offer, proof samples, and buying path in one place, including direct email intake.
   - name: Preview the $99 Workflow Audit
-    url: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
-    about: Review the short landing preview before opening intake.
+    url: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
+    about: Review the short landing preview with email and GitHub intake options before opening intake.
   - name: Buy the $99 Workflow Audit
     url: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
-    about: Use this when you are ready to buy if the workflow fits the starter scope.
+    about: Use this when you are ready to buy through GitHub if the workflow fits the starter scope.
   - name: Public Intake Thread
     url: https://github.com/ch33rio/dacon_skills.md/issues/1
     about: Ask non-sensitive qualification questions or post a lightweight workflow summary.
