@@ -29,6 +29,22 @@ Use one of these paths:
 - Public request form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
 - Private email: hoonso20@naver.com
 
+Fastest buying signal:
+
+If the $99 starter range is acceptable and the workflow is non-sensitive, comment on the public intake thread with:
+
+```text
+Ready to buy the $99 starter.
+
+Workflow:
+Messy input:
+Desired output:
+Tools involved:
+Safe sample available: yes/no
+
+Please confirm fit and send the private payment handoff.
+```
+
 In public GitHub issues, share only non-sensitive qualification details:
 
 1. What repeated workflow do you run weekly?
