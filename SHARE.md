@@ -19,7 +19,7 @@ Examples:
 
 Starter project: $99 for one workflow audit and one lightweight fix. Work starts after the workflow is qualified, scope is agreed, and payment is received.
 
-Landing preview: https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
 
 Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 
@@ -37,7 +37,7 @@ Do you know an agency, creator, founder, or operator who repeats the same cleanu
 
 If they are ready to buy, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
-For a quick overview, send them: https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+For a quick overview, send them: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
 
 ## Safe Boundaries
 

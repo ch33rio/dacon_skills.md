@@ -4,7 +4,7 @@ A fixed-scope starter offer for small agencies, founders, creators, and operator
 
 Quick overview:
 
-https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
 
 ## Starter Price
 
@@ -38,7 +38,7 @@ This is for teams that repeatedly do work such as:
 
 ## Buy / Start
 
-- [Landing preview](https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html)
+- [Landing preview](https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html)
 - [Structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml)
 - [How to buy the $99 workflow audit](../BUY.md)
 - [Public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1)

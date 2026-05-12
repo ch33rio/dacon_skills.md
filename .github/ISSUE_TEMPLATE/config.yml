@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Preview the $99 Workflow Audit
-    url: https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+    url: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
     about: Review the short landing preview before opening intake.
   - name: Buy the $99 Workflow Audit
     url: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml

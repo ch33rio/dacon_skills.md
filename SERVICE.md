@@ -8,7 +8,7 @@ This is useful for small agencies, founders, creators, and operators who repeate
 
 Quick overview:
 
-https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
 
 ## Common Use Cases
 
@@ -29,7 +29,7 @@ https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
 
 ## Public Proof
 
-- Landing preview: https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
 - Share packet: https://github.com/ch33rio/dacon_skills.md/blob/main/SHARE.md
