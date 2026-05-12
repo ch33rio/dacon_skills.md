@@ -25,13 +25,14 @@ Not a fit:
 
 Use one of these paths:
 
+- Structured buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
-- Public request form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
+- General request form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
 - Private email: hoonso20@naver.com
 
 Fastest buying signal:
 
-If the $99 starter range is acceptable and the workflow is non-sensitive, comment on the public intake thread with:
+If the $99 starter range is acceptable and the workflow is non-sensitive, use the structured buy form or comment on the public intake thread with:
 
 ```text
 Ready to buy the $99 starter.
