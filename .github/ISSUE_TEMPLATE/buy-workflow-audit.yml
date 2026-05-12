@@ -1,7 +1,7 @@
 name: Buy the $99 Workflow Audit
 description: Ready-to-buy intake for one AI workflow audit and lightweight fix
 title: "Workflow audit purchase: "
-labels: ["ready-to-buy", "ai-workflow-audit", "99-starter"]
+labels: ["ready-to-buy", "ai-workflow-audit", "99-starter", "freelance-services", "workflow-automation", "ai-automation"]
 assignees: ["ch33rio"]
 body:
   - type: markdown
