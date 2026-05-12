@@ -6,6 +6,10 @@ A $99 starter service for one repeated operational workflow.
 
 This is useful for small agencies, founders, creators, and operators who repeatedly turn messy notes, intake details, support examples, campaign observations, or spreadsheet rows into a cleaner output.
 
+Quick overview:
+
+https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+
 ## Common Use Cases
 
 - Campaign observations to client-ready recap bullets and internal action lists.
@@ -25,6 +29,7 @@ This is useful for small agencies, founders, creators, and operators who repeate
 
 ## Public Proof
 
+- Landing preview: https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
 - Share packet: https://github.com/ch33rio/dacon_skills.md/blob/main/SHARE.md
