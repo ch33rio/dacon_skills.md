@@ -2,6 +2,12 @@
 
 Use this after a prospect confirms a specific repeated workflow and agrees that the $99 starter range is acceptable.
 
+Ready-to-buy intake: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+
+Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
+
+Payment is confirmed privately after fit is confirmed. Do not post card numbers, bank details, credentials, private customer data, production secrets, or confidential client examples in public GitHub issues.
+
 ## Statement Of Work
 
 Project name: `{workflow name}`
