@@ -29,6 +29,7 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b
 
 ## Public Proof
 
+- For hire page: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 - Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
