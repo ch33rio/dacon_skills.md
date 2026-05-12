@@ -26,6 +26,7 @@ This is useful for small agencies, founders, creators, and operators who repeate
 ## Public Proof
 
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
+- Share packet: https://github.com/ch33rio/dacon_skills.md/blob/main/SHARE.md
 - Agency sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 - CRM sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/lead-notes-to-crm-demo.md
 - CSV template: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/crm-row-template.csv
