@@ -1,0 +1,84 @@
+name: Buy the $99 Workflow Audit
+description: Ready-to-buy intake for one AI workflow audit and lightweight fix
+title: "Workflow audit purchase: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, or confidential client examples.
+
+  - type: checkboxes
+    id: buying-intent
+    attributes:
+      label: Buying intent
+      options:
+        - label: I am ready to buy the $99 starter if this workflow fits.
+          required: true
+        - label: I understand payment is handled privately after fit is confirmed.
+          required: true
+
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Repeated workflow
+      description: What task do you or your team repeat every week?
+      placeholder: "Example: turn campaign notes into client-ready recap bullets."
+    validations:
+      required: true
+
+  - type: textarea
+    id: messy-input
+    attributes:
+      label: Messy input
+      description: Describe the input without posting private data.
+      placeholder: "Example: raw notes, spreadsheet rows, CRM fields, intake details."
+    validations:
+      required: true
+
+  - type: textarea
+    id: desired-output
+    attributes:
+      label: Desired output
+      description: What should the cleaned-up output look like?
+      placeholder: "Example: concise recap bullets plus next actions."
+    validations:
+      required: true
+
+  - type: input
+    id: tools
+    attributes:
+      label: Tools involved
+      description: List the tools involved in this workflow.
+      placeholder: "Google Sheets, HubSpot, Salesforce, Notion, CSV, email, SOP"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: safe-sample
+    attributes:
+      label: Safe sample available
+      description: Can you provide a sanitized sample after fit is confirmed?
+      options:
+        - "Yes"
+        - "No"
+        - "Not sure yet"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: budget
+    attributes:
+      label: Budget and payment handoff
+      options:
+        - label: The $99 starter range is acceptable.
+          required: true
+        - label: Please confirm fit and send the private payment handoff.
+          required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Timing or notes
+      description: Optional non-sensitive timing constraints or context.
+    validations:
+      required: false
