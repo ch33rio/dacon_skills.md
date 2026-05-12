@@ -6,6 +6,10 @@ Quick overview:
 
 https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
 
+For hire page:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
+
 ## 1. Check Fit
 
 The starter offer is for one repeated workflow with a clear input and desired output.
@@ -29,6 +33,7 @@ Not a fit:
 
 Use one of these paths:
 
+- For hire overview: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 - Structured buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
 - General request form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
