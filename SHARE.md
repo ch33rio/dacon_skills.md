@@ -19,6 +19,8 @@ Examples:
 
 Starter project: $99 for one workflow audit and one lightweight fix. Work starts after the workflow is qualified, scope is agreed, and payment is received.
 
+For hire page: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
+
 Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
 
 Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
@@ -34,6 +36,8 @@ Contact: hoonso20@naver.com
 ## Referral Ask
 
 Do you know an agency, creator, founder, or operator who repeats the same cleanup or reporting task every week? I have a $99 starter offer to map one workflow and deliver one reusable fix.
+
+If they want the offer, proof samples, and buying path in one place, send them to: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 
 If they are ready to buy, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
