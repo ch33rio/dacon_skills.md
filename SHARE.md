@@ -21,17 +21,17 @@ Starter project: $99 for one workflow audit and one lightweight fix. Work starts
 
 For hire page: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 
-Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
+Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
 
 Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 
 Agency sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 
+Ready-to-buy email: hoonso20@naver.com
+
 Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
 Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
-
-Contact: hoonso20@naver.com
 
 ## Referral Ask
 
@@ -39,10 +39,12 @@ Do you know an agency, creator, founder, or operator who repeats the same cleanu
 
 If they want the offer, proof samples, and buying path in one place, send them to: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 
-If they are ready to buy, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+If they are ready to buy without using GitHub, they can email: hoonso20@naver.com
 
-For a quick overview, send them: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
+If they are ready to buy through GitHub, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+
+For a quick overview, send them: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
 
 ## Safe Boundaries
 
-Do not share credentials, private customer data, production secrets, or confidential client examples in public GitHub issues. Private examples should be sent by email after the workflow is qualified.
+Do not share credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues. Private examples should be sent by email after the workflow is qualified.
