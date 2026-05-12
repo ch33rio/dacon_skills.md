@@ -39,6 +39,8 @@ Use the public intake thread for non-sensitive qualification details:
 
 https://github.com/ch33rio/dacon_skills.md/issues/1
 
+Fastest buying signal: comment `Ready to buy the $99 starter` with the workflow, messy input, desired output, tools involved, and whether a safe sample is available. If it fits, payment handoff is confirmed privately before work starts.
+
 Do not post credentials, private customer data, production secrets, or confidential client examples in public GitHub issues.
 
 Private contact: hoonso20@naver.com
