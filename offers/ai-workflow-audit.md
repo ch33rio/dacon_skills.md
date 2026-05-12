@@ -36,6 +36,20 @@ This is for teams that repeatedly do work such as:
 - [Public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1)
 - [Open a workflow audit request](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md)
 
+Fastest buying signal: if the $99 starter range is acceptable and the workflow is non-sensitive, comment on the public intake thread with:
+
+```text
+Ready to buy the $99 starter.
+
+Workflow:
+Messy input:
+Desired output:
+Tools involved:
+Safe sample available: yes/no
+
+Please confirm fit and send the private payment handoff.
+```
+
 Use GitHub issues only for non-sensitive qualification details. Do not post credentials, private customer data, or production secrets.
 
 ## Scope And Payment Terms
