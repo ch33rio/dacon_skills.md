@@ -2,8 +2,8 @@
 name: Workflow Audit Request
 about: Request or buy a $99 AI workflow audit for one repeated operational task
 title: "Workflow audit request: "
-labels: ""
-assignees: ""
+labels: "ai-workflow-audit"
+assignees: "ch33rio"
 ---
 
 ## Buying intent
