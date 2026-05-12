@@ -18,11 +18,26 @@ Typical workflows:
 
 Start here:
 
-- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/52095d212c2b90b8efcb34b49983b2030cd47d5e/public/index.html
+- Email ready-to-buy details: mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit
+- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
 - Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
 - Offer and scope: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
+
+Fastest buying signal:
+
+```text
+Ready to buy the $99 starter.
+
+Workflow:
+Messy input:
+Desired output:
+Tools involved:
+Safe sample available: yes/no
+
+Please confirm fit and send the private payment handoff.
+```
 
 Proof samples:
 
