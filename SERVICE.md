@@ -46,7 +46,8 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd
 
 Use direct email or the structured buy form for buying intent and non-sensitive qualification details:
 
-- Email: hoonso20@naver.com
+- Email: [hoonso20@naver.com](mailto:hoonso20@naver.com)
+- Ready-to-buy email template: [open a pre-filled email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
 - Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
 
