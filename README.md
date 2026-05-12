@@ -8,6 +8,7 @@ $99 starter offer for one repeated operational workflow.
 
 Useful for teams that repeatedly turn messy notes, intake details, campaign observations, support examples, or spreadsheet rows into a cleaner output.
 
+- Service overview: [AI Workflow Automation Service](SERVICE.md)
 - Offer: [24-hour AI Workflow Audit + One Automation Fix](offers/ai-workflow-audit.md)
 - Sample deliverable: [Lead notes to CRM rows](samples/lead-notes-to-crm-demo.md)
 - CSV template: [CRM row template](samples/crm-row-template.csv)
