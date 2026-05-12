@@ -30,6 +30,7 @@ This is for teams that repeatedly do work such as:
 
 ## Sample Deliverables
 
+- [Proof sample index](../samples/README.md)
 - [Campaign notes to client recap sample](../samples/campaign-notes-to-client-recap.md)
 - [Content brief to production handoff sample](../samples/content-brief-to-production-handoff.md)
 - [B2B signal notes to CRM handoff sample](../samples/b2b-signal-notes-to-crm-handoff.md)
