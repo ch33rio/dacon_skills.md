@@ -29,6 +29,10 @@ Not a fit:
 - Spam, scraping against site rules, account evasion, or regulated decisioning.
 - Work requiring production secrets before a secure process is agreed.
 
+Proof samples:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+
 ## 2. Start Intake
 
 Use one of these paths:
@@ -95,5 +99,8 @@ You receive:
 
 Public examples:
 
+- Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 - Agency recap sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
+- Content handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/content-brief-to-production-handoff.md
+- B2B signal handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/b2b-signal-notes-to-crm-handoff.md
 - CRM row sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/lead-notes-to-crm-demo.md
