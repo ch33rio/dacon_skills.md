@@ -24,6 +24,11 @@ This is for teams that repeatedly do work such as:
 - Written handoff notes so the workflow can be reused.
 - One revision within 3 days.
 
+## Sample Deliverable
+
+- [Lead notes to CRM rows sample](../samples/lead-notes-to-crm-demo.md)
+- [Spreadsheet-ready CSV template](../samples/crm-row-template.csv)
+
 ## Boundaries
 
 I do not offer guaranteed sales results, investment advice, regulated decisioning, spam systems, credential misuse, scraping against site rules, or production-secret handling without a secure process.
