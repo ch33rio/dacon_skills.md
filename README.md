@@ -10,6 +10,7 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 
 - Service overview: [AI Workflow Automation Service](SERVICE.md)
 - How to buy: [Buy the $99 workflow audit](BUY.md)
+- Ready to buy: comment `Ready to buy the $99 starter` on the [public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) with non-sensitive workflow details.
 - Share packet: [AI workflow audit share packet](SHARE.md)
 - Offer: [24-hour AI Workflow Audit + One Automation Fix](offers/ai-workflow-audit.md)
 - Agency sample: [Campaign notes to client recap](samples/campaign-notes-to-client-recap.md)
