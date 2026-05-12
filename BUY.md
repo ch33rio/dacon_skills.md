@@ -2,6 +2,10 @@
 
 This is the buying path for the 24-hour AI Workflow Audit + One Automation Fix.
 
+Quick overview:
+
+https://raw.githack.com/ch33rio/dacon_skills.md/main/public/index.html
+
 ## 1. Check Fit
 
 The starter offer is for one repeated workflow with a clear input and desired output.
