@@ -36,6 +36,12 @@ This is for teams that repeatedly do work such as:
 
 Use GitHub issues only for non-sensitive qualification details. Do not post credentials, private customer data, or production secrets.
 
+## Scope And Payment Terms
+
+- [Starter SOW + invoice terms](starter-sow-invoice-template.md)
+
+Work starts only after the workflow is qualified, scope is agreed, and payment is received.
+
 ## Boundaries
 
 I do not offer guaranteed sales results, investment advice, regulated decisioning, spam systems, credential misuse, scraping against site rules, or production-secret handling without a secure process.
