@@ -72,3 +72,14 @@ Quality check:
 - Observed signals should be factual.
 - Possible pain should be phrased as a possibility.
 - Suggested next step should be specific and non-pushy.
+
+## Need This For Your Workflow?
+
+This sample is part of the $99 AI Workflow Audit + One Automation Fix starter.
+
+- Email ready-to-buy details: hoonso20@naver.com
+- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
+- Buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+- Offer scope: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
+
+Do not post private customer data, credentials, production secrets, or payment details in public GitHub issues.
