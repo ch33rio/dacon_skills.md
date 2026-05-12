@@ -10,14 +10,14 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 
 - Service overview: [AI Workflow Automation Service](SERVICE.md)
 - How to buy: [Buy the $99 workflow audit](BUY.md)
-- Ready to buy: comment `Ready to buy the $99 starter` on the [public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) with non-sensitive workflow details.
+- Ready to buy: use the [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml) or comment `Ready to buy the $99 starter` on the [public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) with non-sensitive workflow details.
 - Share packet: [AI workflow audit share packet](SHARE.md)
 - Offer: [24-hour AI Workflow Audit + One Automation Fix](offers/ai-workflow-audit.md)
 - Agency sample: [Campaign notes to client recap](samples/campaign-notes-to-client-recap.md)
 - CRM sample: [Lead notes to CRM rows](samples/lead-notes-to-crm-demo.md)
 - CSV template: [CRM row template](samples/crm-row-template.csv)
 - Scope + invoice terms: [Starter SOW + invoice terms](offers/starter-sow-invoice-template.md)
-- Start intake: [public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) or [request form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md)
+- Start intake: [public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1), [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml), or [general request form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md)
 
 Work starts only after the workflow is qualified, scope is agreed, and payment is received. Do not post credentials, private customer data, production secrets, or confidential client examples in public GitHub issues.
 
