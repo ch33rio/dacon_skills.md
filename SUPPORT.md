@@ -1,6 +1,6 @@
 # Support And Buying
 
-For the $99 AI workflow audit starter, use direct email or the structured buy form.
+For the $99 AI workflow audit starter, use direct email first. GitHub issue forms require GitHub sign-in to submit, and public issue comments require GitHub sign-in.
 
 Ready-to-buy email:
 
@@ -10,7 +10,7 @@ Direct email:
 
 hoonso20@naver.com
 
-Structured buy form:
+Structured buy form for signed-in GitHub buyers:
 
 https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
@@ -26,7 +26,7 @@ For the offer and buying path in one place:
 
 https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 
-For non-sensitive qualification questions, use the public intake thread:
+For non-sensitive qualification questions, use the public intake thread. It is viewable publicly, but GitHub sign-in is required to comment:
 
 https://github.com/ch33rio/dacon_skills.md/issues/1
 
