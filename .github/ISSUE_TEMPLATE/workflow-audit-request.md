@@ -2,7 +2,7 @@
 name: Workflow Audit Request
 about: Request or buy a $99 AI workflow audit for one repeated operational task
 title: "Workflow audit request: "
-labels: "ai-workflow-audit, workflow-automation, ai-automation, freelance-services, marketing-operations, marketing-automation, marketing-agencies"
+labels: "ai-workflow-audit, workflow-automation, ai-automation, freelance-services, marketing-operations, marketing-automation, marketing-agencies, client-reporting, reporting-automation"
 assignees: "ch33rio"
 ---
 
