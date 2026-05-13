@@ -6,6 +6,7 @@ The offer is for one repeated workflow with a clear input and useful output. Typ
 
 ## Samples
 
+- [HubSpot-style CRM export cleanup](hubspot-crm-export-cleanup-sample.md)
 - [Campaign notes to client recap](campaign-notes-to-client-recap.md)
 - [Content brief to production handoff](content-brief-to-production-handoff.md)
 - [B2B signal notes to CRM handoff](b2b-signal-notes-to-crm-handoff.md)
@@ -23,6 +24,7 @@ The offer is for one repeated workflow with a clear input and useful output. Typ
 ## Buy Or Start Intake
 
 - Email ready-to-buy details, no GitHub sign-in required: hoonso20@naver.com
+- CRM cleanup buyer listing for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/3
 - Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
 - Structured buy form for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
