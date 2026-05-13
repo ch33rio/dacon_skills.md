@@ -4,7 +4,7 @@ This is the buying path for the 24-hour AI Workflow Audit + One Automation Fix.
 
 Quick overview:
 
-https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
 
 For hire page:
 
