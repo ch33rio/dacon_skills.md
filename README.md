@@ -21,6 +21,7 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 - Service overview: [AI Workflow Automation Service](SERVICE.md)
 - Offer: [24-hour AI Workflow Audit + One Automation Fix](offers/ai-workflow-audit.md)
 - Proof sample index: [Workflow audit proof samples](samples/README.md)
+- HubSpot-style CRM export cleanup sample: [HubSpot-style CRM export cleanup](samples/hubspot-crm-export-cleanup-sample.md)
 - Agency sample: [Campaign notes to client recap](samples/campaign-notes-to-client-recap.md)
 - Content handoff sample: [Content brief to production handoff](samples/content-brief-to-production-handoff.md)
 - B2B handoff sample: [B2B signal notes to CRM handoff](samples/b2b-signal-notes-to-crm-handoff.md)
