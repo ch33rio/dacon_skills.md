@@ -8,7 +8,7 @@ This is useful for marketing agencies, marketing operations, content, B2B, small
 
 Quick overview:
 
-https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html
 
 ## Common Use Cases
 
@@ -34,7 +34,7 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758
 - Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 - Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 - Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
-- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
+- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
 - Share packet: https://github.com/ch33rio/dacon_skills.md/blob/main/SHARE.md
@@ -52,12 +52,12 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758
 Use direct email first for buying intent and non-sensitive qualification details. GitHub issue forms require GitHub sign-in to submit, and public issue comments require GitHub sign-in.
 
 - Email: [hoonso20@naver.com](mailto:hoonso20@naver.com)
-- Ready-to-buy email template: [open a pre-filled email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
+- Ready-to-buy email template: [open a pre-filled email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0ABilling%20email%20for%20private%20invoice%2Fpayment%20handoff%3A%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
 - Ready-to-buy form for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread; viewable publicly, sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 
-Fastest buying signal: email `Ready to buy the $99 starter` to `hoonso20@naver.com` with the workflow, messy input, desired output, tools involved, and whether a safe sample is available. Signed-in GitHub buyers can submit the structured buy form or comment on the public no-login email intake thread with the same details. If it fits, payment handoff is confirmed privately before work starts.
+Fastest buying signal: email `Ready to buy the $99 starter` to `hoonso20@naver.com` with the workflow, messy input, desired output, tools involved, whether a safe sample is available, and the billing email for private invoice/payment handoff. Signed-in GitHub buyers can submit the structured buy form or comment on the public no-login email intake thread with only non-sensitive qualification details. If it fits, payment handoff is confirmed privately before work starts.
 
-Do not post credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues.
+Do not post credentials, private customer data, production secrets, billing email addresses, invoice details, payment details, or confidential client examples in public GitHub issues.
 
 Work starts only after the workflow is qualified, scope is agreed, and payment is received.
