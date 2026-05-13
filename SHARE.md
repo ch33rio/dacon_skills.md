@@ -28,7 +28,7 @@ Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/
 
 Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 
-Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
+Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html
 
 Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 
@@ -60,10 +60,12 @@ Proof samples: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/READ
 
 If they are ready to buy without using GitHub, they can email: hoonso20@naver.com
 
+If they already know the payer contact, they should include `Billing email for private invoice/payment handoff` in private email only.
+
 If they are signed in and ready to buy through GitHub, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
-For a quick overview, send them: https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
+For a quick overview, send them: https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html
 
 ## Safe Boundaries
 
-Do not share credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues. Private examples should be sent by email after the workflow is qualified.
+Do not share credentials, private customer data, production secrets, billing email addresses, invoice details, payment details, or confidential client examples in public GitHub issues. Private examples and billing handoff details should be sent by email after the workflow is qualified.
