@@ -31,6 +31,7 @@ Ready-to-buy email:
 
 Signed-in GitHub buyers can also use:
 
+- Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 - Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 - Service listing: https://github.com/ch33rio/dacon_skills.md/issues/2
