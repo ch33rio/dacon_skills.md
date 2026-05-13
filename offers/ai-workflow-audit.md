@@ -4,7 +4,7 @@ A fixed-scope starter offer for small agencies, founders, creators, and operator
 
 Quick overview:
 
-https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
 
 ## Starter Price
 
@@ -37,6 +37,7 @@ Focused fit pages:
 ## Sample Deliverables
 
 - [Proof sample index](../samples/README.md)
+- [HubSpot-style CRM export cleanup sample](../samples/hubspot-crm-export-cleanup-sample.md)
 - [Campaign notes to client recap sample](../samples/campaign-notes-to-client-recap.md)
 - [Content brief to production handoff sample](../samples/content-brief-to-production-handoff.md)
 - [B2B signal notes to CRM handoff sample](../samples/b2b-signal-notes-to-crm-handoff.md)
@@ -45,7 +46,7 @@ Focused fit pages:
 
 ## Buy / Start
 
-- [Landing preview](https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html)
+- [Landing preview](https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html)
 - Email ready-to-buy details, no GitHub sign-in required: [hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
 - [Structured buy form for signed-in GitHub buyers](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml)
 - [How to buy the $99 workflow audit](../BUY.md)
