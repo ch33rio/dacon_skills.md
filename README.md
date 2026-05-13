@@ -12,6 +12,7 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 - Client reporting automation page: [client reporting automation consultant for marketing agencies](CLIENT-REPORTING-AUTOMATION.md)
 - Weekly reporting automation page: [weekly reporting automation consultant for marketing agencies](WEEKLY-REPORTING-AUTOMATION.md)
 - CRM cleanup automation page: [CRM cleanup automation consultant for marketing teams](CRM-CLEANUP-AUTOMATION.md)
+- CRM cleanup buyer listing: [$99 CRM cleanup automation consultant - no-login email intake](https://github.com/ch33rio/dacon_skills.md/issues/3)
 - Public service listing: [$99 AI workflow automation consultant - no-login email intake](https://github.com/ch33rio/dacon_skills.md/issues/2)
 - Fastest ready-to-buy path: [email hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.) with non-sensitive workflow details.
 - Landing preview: [24-hour AI workflow audit page](https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html)
@@ -27,7 +28,7 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 - CSV template: [CRM row template](samples/crm-row-template.csv)
 - Scope + invoice terms: [Starter SOW + invoice terms](offers/starter-sow-invoice-template.md)
 - Share packet: [AI workflow audit share packet](SHARE.md)
-- Start intake: use the pre-filled email above first. Signed-in GitHub buyers can use the [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml), [public no-login intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1), or [general request form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md); GitHub sign-in is required to submit forms or comments.
+- Start intake: use the pre-filled email above first. Signed-in GitHub buyers can use the [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml), [CRM cleanup buyer listing](https://github.com/ch33rio/dacon_skills.md/issues/3), [public no-login intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1), or [general request form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md); GitHub sign-in is required to submit forms or comments.
 
 Work starts only after the workflow is qualified, scope is agreed, and payment is received. Do not post credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues.
 
