@@ -11,6 +11,8 @@ body:
 
         Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, confidential client examples, or payment details.
 
+        Weekly reporting fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
+
         Proof samples: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 
         Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
@@ -32,7 +34,7 @@ body:
     attributes:
       label: Repeated workflow
       description: What task do you or your team repeat every week?
-      placeholder: "Example: turn campaign notes into client-ready recap bullets."
+      placeholder: "Example: turn weekly reporting notes or campaign observations into client-ready recap bullets."
     validations:
       required: true
 
