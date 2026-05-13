@@ -11,6 +11,7 @@ I turn one messy recurring process into a reusable prompt, checklist, CSV, SOP, 
 - B2B signal notes need to become CRM or sales handoff rows.
 - Intake details need to become scoped work orders.
 - Spreadsheet cleanup needs a repeatable CSV template.
+- Weekly reporting notes need to become repeatable client or team updates.
 
 ## What You Get
 
@@ -30,6 +31,7 @@ Ready-to-buy email:
 
 Signed-in GitHub buyers can also use:
 
+- Weekly reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 - Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 - Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
