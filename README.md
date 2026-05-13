@@ -2,7 +2,7 @@
 
 24-hour AI Workflow Audit + One Automation Fix for marketing operations, content, and B2B teams that need one repeated manual workflow cleaned up fast.
 
-I turn one messy recurring process into a reusable prompt, checklist, CSV, SOP, or lightweight script.
+This is a $99 starter offer for one repeated operational workflow. I turn one messy recurring process into a reusable prompt, checklist, CSV, SOP, or lightweight script.
 
 Useful for teams that repeatedly turn messy notes, intake details, campaign observations, support examples, or spreadsheet rows into a cleaner output.
 
