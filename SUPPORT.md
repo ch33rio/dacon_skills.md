@@ -18,6 +18,10 @@ Marketing operations fit page:
 
 https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 
+Client reporting automation fit page:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
+
 Structured buy form for signed-in GitHub buyers:
 
 https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
