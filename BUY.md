@@ -133,6 +133,7 @@ You receive:
 Public examples:
 
 - Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+- HubSpot-style CRM export cleanup sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/hubspot-crm-export-cleanup-sample.md
 - Agency recap sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 - Content handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/content-brief-to-production-handoff.md
 - B2B signal handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/b2b-signal-notes-to-crm-handoff.md
