@@ -12,6 +12,12 @@ The offer is for one repeated workflow with a clear input and useful output. Typ
 - [Lead notes to CRM rows](lead-notes-to-crm-demo.md)
 - [CRM row CSV template](crm-row-template.csv)
 
+## Fit Pages
+
+- Client reporting automation: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
+- Marketing agency automation: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
+- Marketing operations automation: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
+
 ## Buy Or Start Intake
 
 - Email ready-to-buy details, no GitHub sign-in required: hoonso20@naver.com
