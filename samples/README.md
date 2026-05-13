@@ -25,7 +25,7 @@ The offer is for one repeated workflow with a clear input and useful output. Typ
 
 - Email ready-to-buy details, no GitHub sign-in required: hoonso20@naver.com
 - CRM cleanup buyer listing for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/3
-- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
+- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html
 - Structured buy form for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 - Offer scope: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
