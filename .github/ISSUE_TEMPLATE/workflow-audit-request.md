@@ -10,6 +10,12 @@ assignees: "ch33rio"
 
 GitHub sign-in is required to submit this public issue. If you are signed out or prefer not to use a public GitHub issue, email the same ready-to-buy or fit-check details to hoonso20@naver.com.
 
+## CRM cleanup fit
+
+If the workflow is CRM cleanup, HubSpot-style handoff, lead notes, or B2B signal cleanup, review this focused fit page first:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
+
 ## Weekly reporting fit
 
 If the workflow is weekly reporting, client recaps, or recurring report cleanup, review this focused fit page first:
@@ -35,7 +41,7 @@ What task do you or your team repeat every week?
 
 ## Current input
 
-What does the messy input look like? Do not include private customer data, credentials, or secrets.
+What does the messy input look like? Do not include private customer data, credentials, CRM exports, or secrets.
 
 ## Desired output
 
@@ -73,4 +79,4 @@ Please confirm fit and send the private payment handoff.
 
 ## Private details
 
-Do not post secrets, production credentials, private customer data, payment details, or confidential client examples in a public issue. Use email for private examples or payment setup: hoonso20@naver.com
+Do not post secrets, production credentials, private customer data, CRM exports, payment details, or confidential client examples in a public issue. Use email for private examples or payment setup: hoonso20@naver.com
