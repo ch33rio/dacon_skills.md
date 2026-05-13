@@ -14,9 +14,9 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 - CRM cleanup automation page: [CRM cleanup automation consultant for marketing teams](CRM-CLEANUP-AUTOMATION.md)
 - CRM cleanup buyer listing: [$99 CRM cleanup automation consultant - no-login email intake](https://github.com/ch33rio/dacon_skills.md/issues/3)
 - Public service listing: [$99 AI workflow automation consultant - no-login email intake](https://github.com/ch33rio/dacon_skills.md/issues/2)
-- Fastest ready-to-buy path: [email hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.) with non-sensitive workflow details.
+- Fastest ready-to-buy path: [email hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0ABilling%20email%20for%20private%20invoice%2Fpayment%20handoff%3A%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.) with non-sensitive workflow details and, if ready, a billing email for private invoice/payment handoff.
 - Landing preview: [24-hour AI workflow audit page](https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html)
-- Ready to buy: email `Ready to buy the $99 starter` to `hoonso20@naver.com`; signed-in GitHub buyers can also use the [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml) or comment on the [public no-login intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) with non-sensitive workflow details. GitHub sign-in is required to submit forms or comments.
+- Ready to buy: email `Ready to buy the $99 starter` to `hoonso20@naver.com`; include `Billing email for private invoice/payment handoff` only in private email, not in public GitHub issues. Signed-in GitHub buyers can also use the [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml) or comment on the [public no-login intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) with non-sensitive workflow details. GitHub sign-in is required to submit forms or comments.
 - How to buy: [Buy the $99 workflow audit](BUY.md)
 - Service overview: [AI Workflow Automation Service](SERVICE.md)
 - Offer: [24-hour AI Workflow Audit + One Automation Fix](offers/ai-workflow-audit.md)
@@ -31,7 +31,7 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 - Share packet: [AI workflow audit share packet](SHARE.md)
 - Start intake: use the pre-filled email above first. Signed-in GitHub buyers can use the [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml), [CRM cleanup buyer listing](https://github.com/ch33rio/dacon_skills.md/issues/3), [public no-login intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1), or [general request form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md); GitHub sign-in is required to submit forms or comments.
 
-Work starts only after the workflow is qualified, scope is agreed, and payment is received. Do not post credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues.
+Work starts only after the workflow is qualified, scope is agreed, and payment is received. Do not post credentials, private customer data, production secrets, billing email addresses, invoice details, payment details, or confidential client examples in public GitHub issues.
 
 Contact: [hoonso20@naver.com](mailto:hoonso20@naver.com)
 
