@@ -4,7 +4,7 @@
 
 A $99 starter service for one repeated operational workflow.
 
-This is useful for marketing operations, content, B2B, small agency, founder, creator, and operator teams who repeatedly turn messy notes, intake details, support examples, campaign observations, or spreadsheet rows into a cleaner output.
+This is useful for marketing agencies, marketing operations, content, B2B, small agency, founder, creator, and operator teams who repeatedly turn messy notes, intake details, support examples, campaign observations, or spreadsheet rows into a cleaner output.
 
 Quick overview:
 
@@ -13,6 +13,7 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831
 ## Common Use Cases
 
 - Campaign observations to client-ready recap bullets and internal action lists.
+- Client reporting notes to repeatable recap and next-action workflows.
 - Lead notes to CRM-ready rows.
 - Intake notes to scoped work orders.
 - Support examples to reusable reply workflows.
@@ -30,6 +31,8 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831
 ## Public Proof
 
 - For hire page: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
+- Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
+- Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 - Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
