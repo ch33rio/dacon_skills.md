@@ -22,6 +22,18 @@ Client reporting automation page:
 
 https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 
+Weekly reporting automation page:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
+
+CRM cleanup automation page:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
+
+Canonical CRM cleanup buyer listing:
+
+https://github.com/ch33rio/dacon_skills.md/issues/3
+
 ## 1. Check Fit
 
 The starter offer is for one repeated workflow with a clear input and desired output.
@@ -58,6 +70,9 @@ Use one of these paths:
 - Marketing operations overview: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 - Marketing agency overview: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 - Client reporting automation overview: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
+- Weekly reporting automation overview: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
+- CRM cleanup automation overview: https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
+- CRM cleanup buyer listing for signed-in GitHub buyers; sign-in is required to comment: https://github.com/ch33rio/dacon_skills.md/issues/3
 - Structured buy form for signed-in GitHub buyers; sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread; viewable publicly, sign-in is required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 - General request form for signed-in GitHub users; sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
