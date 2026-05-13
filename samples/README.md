@@ -17,6 +17,7 @@ The offer is for one repeated workflow with a clear input and useful output. Typ
 - Email ready-to-buy details, no GitHub sign-in required: hoonso20@naver.com
 - Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
 - Structured buy form for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+- Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 - Offer scope: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
 
