@@ -1,6 +1,8 @@
-# For Hire: AI Workflow Automation Freelancer
+# For Hire: $99 AI Workflow Automation Freelancer For Marketing Teams
 
 I am available for a fixed-scope $99 starter project: a 24-hour AI Workflow Audit + One Automation Fix.
+
+Best for marketing operations, content, and B2B teams that need one repeated manual workflow cleaned up into a reusable prompt, checklist, CSV, SOP, handoff note, or lightweight script.
 
 Best fit:
 
