@@ -10,6 +10,12 @@ assignees: "ch33rio"
 
 GitHub sign-in is required to submit this public issue. If you are signed out or prefer not to use a public GitHub issue, email the same ready-to-buy or fit-check details to hoonso20@naver.com.
 
+## Weekly reporting fit
+
+If the workflow is weekly reporting, client recaps, or recurring report cleanup, review this focused fit page first:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
+
 ## Proof samples
 
 Review public sample deliverables before posting intake details:
