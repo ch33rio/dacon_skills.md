@@ -9,7 +9,9 @@ body:
       value: |
         GitHub sign-in is required to submit this issue form. If you are signed out or prefer not to use a public GitHub issue, email the same ready-to-buy details to hoonso20@naver.com. Direct email is the no-login intake path.
 
-        Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, confidential client examples, or payment details.
+        Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, confidential client examples, CRM exports, or payment details.
+
+        CRM cleanup fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
 
         Weekly reporting fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 
@@ -34,7 +36,7 @@ body:
     attributes:
       label: Repeated workflow
       description: What task do you or your team repeat every week?
-      placeholder: "Example: turn weekly reporting notes or campaign observations into client-ready recap bullets."
+      placeholder: "Example: turn CRM cleanup notes, weekly reporting notes, or campaign observations into client-ready output."
     validations:
       required: true
 
