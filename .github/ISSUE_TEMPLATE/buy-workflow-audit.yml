@@ -7,11 +7,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        GitHub sign-in is required to submit this issue form. If you are signed out or prefer not to use a public GitHub issue, email the same ready-to-buy details to hoonso20@naver.com.
+        GitHub sign-in is required to submit this issue form. If you are signed out or prefer not to use a public GitHub issue, email the same ready-to-buy details to hoonso20@naver.com. Direct email is the no-login intake path.
 
         Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, confidential client examples, or payment details.
 
         Proof samples: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+
+        Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 
         After submitting, watch GitHub notifications for fit confirmation. For private examples or payment handoff, email hoonso20@naver.com and reference your GitHub issue.
 
