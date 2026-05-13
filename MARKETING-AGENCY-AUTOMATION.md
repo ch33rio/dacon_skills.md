@@ -13,6 +13,7 @@ I turn one messy recurring agency process into a reusable prompt, checklist, CSV
 - Operations teams turn intake details into scoped work orders.
 - Reporting teams clean spreadsheet rows into a repeatable CSV template.
 - Weekly reporting teams turn recurring notes into client-ready status updates.
+- CRM or HubSpot handoffs need cleaner fields before sales follow-up.
 
 ## What You Get
 
@@ -32,6 +33,7 @@ Ready-to-buy email:
 
 Signed-in GitHub buyers can also use:
 
+- CRM cleanup automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
 - Weekly reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 - Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 - Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
