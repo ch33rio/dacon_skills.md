@@ -2,13 +2,21 @@
 
 Use this after a prospect confirms a specific repeated workflow and agrees that the $99 starter range is acceptable.
 
+Quick overview:
+
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html
+
 Ready-to-buy email, no GitHub sign-in required: hoonso20@naver.com
+
+Open a pre-filled ready-to-buy email:
+
+mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0ABilling%20email%20for%20private%20invoice%2Fpayment%20handoff%3A%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.
 
 Ready-to-buy intake for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
 Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 
-Payment is confirmed privately after fit is confirmed. Do not post card numbers, bank details, credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues.
+Payment is confirmed privately after fit is confirmed. If ready to proceed, include `Billing email for private invoice/payment handoff` in private email only. Do not post card numbers, bank details, billing email addresses, invoice details, credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues.
 
 ## Statement Of Work
 
@@ -92,6 +100,8 @@ Invoice number: `{YYYYMMDD-client-shortname-001}`
 From: `ch33rio / hoonso20@naver.com`
 
 To: `{client name/business and email}`
+
+Billing email for private invoice/payment handoff: `{billing email}`
 
 Description: `24-hour AI Workflow Audit + One Automation Fix`
 
