@@ -21,6 +21,8 @@ Starter project: $99 for one workflow audit and one lightweight fix. Work starts
 
 For hire page: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 
+Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
+
 Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
 
 Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
@@ -37,9 +39,11 @@ Public no-login email intake thread, viewable publicly but sign-in required to c
 
 ## Referral Ask
 
-Do you know an agency, creator, founder, or operator who repeats the same cleanup or reporting task every week? I have a $99 starter offer to map one workflow and deliver one reusable fix.
+Do you know a marketing operations, content, B2B, agency, creator, founder, or operator team that repeats the same cleanup or reporting task every week? I have a $99 starter offer to map one workflow and deliver one reusable fix.
 
 If they want the offer, proof samples, and buying path in one place, send them to: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
+
+Marketing operations fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 
 Proof samples: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 
