@@ -33,7 +33,7 @@ Ready-to-buy email, no GitHub sign-in required: hoonso20@naver.com
 
 Ready-to-buy form for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
-Public intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
+Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 
 ## Referral Ask
 
