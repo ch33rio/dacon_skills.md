@@ -14,6 +14,10 @@ Marketing operations page:
 
 https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 
+Marketing agency page:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
+
 ## 1. Check Fit
 
 The starter offer is for one repeated workflow with a clear input and desired output.
@@ -21,6 +25,7 @@ The starter offer is for one repeated workflow with a clear input and desired ou
 Good fits:
 
 - Campaign notes to client-ready recap bullets.
+- Client reporting notes to internal action lists.
 - Lead notes to CRM-ready rows.
 - Intake details to scoped work orders.
 - Spreadsheet cleanup into a repeatable CSV template.
@@ -47,6 +52,7 @@ Use one of these paths:
 - Email ready-to-buy template: [open a pre-filled email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
 - For hire overview: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 - Marketing operations overview: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
+- Marketing agency overview: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 - Structured buy form for signed-in GitHub buyers; sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread; viewable publicly, sign-in is required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 - General request form for signed-in GitHub users; sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
