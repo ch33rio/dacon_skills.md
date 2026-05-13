@@ -26,6 +26,8 @@ Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARK
 
 Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 
+Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
+
 Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
 
 Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
@@ -49,6 +51,8 @@ If they want the offer, proof samples, and buying path in one place, send them t
 Marketing agency fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 
 Marketing operations fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
+
+Client reporting fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 
 Proof samples: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 
