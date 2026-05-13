@@ -4,7 +4,7 @@ A fixed-scope starter offer for small agencies, founders, creators, and operator
 
 Quick overview:
 
-https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html
 
 ## Starter Price
 
@@ -46,8 +46,8 @@ Focused fit pages:
 
 ## Buy / Start
 
-- [Landing preview](https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html)
-- Email ready-to-buy details, no GitHub sign-in required: [hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
+- [Landing preview](https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html)
+- Email ready-to-buy details, no GitHub sign-in required: [hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0ABilling%20email%20for%20private%20invoice%2Fpayment%20handoff%3A%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
 - [Structured buy form for signed-in GitHub buyers](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml)
 - [How to buy the $99 workflow audit](../BUY.md)
 - [Public no-login email intake thread, viewable publicly; sign-in required to comment](https://github.com/ch33rio/dacon_skills.md/issues/1)
@@ -63,13 +63,14 @@ Messy input:
 Desired output:
 Tools involved:
 Safe sample available: yes/no
+Billing email for private invoice/payment handoff:
 
 Please confirm fit and send the private payment handoff.
 ```
 
-Signed-in GitHub buyers can use the structured buy form or public no-login email intake thread with the same details.
+Signed-in GitHub buyers can use the structured buy form or public no-login email intake thread with the same non-sensitive qualification details. Keep billing email, invoice details, and payment details in private email only.
 
-Use GitHub issues only for non-sensitive qualification details. Do not post credentials, private customer data, payment details, or production secrets.
+Use GitHub issues only for non-sensitive qualification details. Do not post credentials, private customer data, billing email addresses, invoice details, payment details, or production secrets.
 
 ## Scope And Payment Terms
 
