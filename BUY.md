@@ -35,20 +35,20 @@ https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 
 ## 2. Start Intake
 
-Fastest path: send non-sensitive workflow details by direct email. GitHub forms and issue comments are useful for signed-in GitHub buyers, but GitHub may ask signed-out visitors to log in first.
+Fastest path: send non-sensitive workflow details by direct email. GitHub issue forms require GitHub sign-in to submit, and public issue comments require GitHub sign-in.
 
 Use one of these paths:
 
 - Direct email: [hoonso20@naver.com](mailto:hoonso20@naver.com)
 - Email ready-to-buy template: [open a pre-filled email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
 - For hire overview: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
-- Structured buy form for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
-- Public intake thread for signed-in GitHub comments: https://github.com/ch33rio/dacon_skills.md/issues/1
-- General request form for signed-in GitHub users: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
+- Structured buy form for signed-in GitHub buyers; sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+- Public intake thread; viewable publicly, sign-in is required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
+- General request form for signed-in GitHub users; sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
 
 Fastest buying signal:
 
-If the $99 starter range is acceptable and the workflow is non-sensitive, email `hoonso20@naver.com` with:
+If the $99 starter range is acceptable and the workflow is non-sensitive, email `hoonso20@naver.com` with the details below. Signed-in GitHub buyers can use the structured buy form with the same details.
 
 ```text
 Ready to buy the $99 starter.
@@ -62,7 +62,7 @@ Safe sample available: yes/no
 Please confirm fit and send the private payment handoff.
 ```
 
-In public GitHub issues, share only non-sensitive qualification details:
+Signed-in GitHub buyers should share only non-sensitive qualification details in public issues:
 
 1. What repeated workflow do you run weekly?
 2. What messy input do you start with?
