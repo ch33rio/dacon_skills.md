@@ -1,6 +1,6 @@
 # $99 AI Workflow Automation Consultant For Marketing Teams
 
-24-hour AI Workflow Audit + One Automation Fix for marketing operations, content, and B2B teams that need one repeated manual workflow cleaned up fast.
+24-hour AI Workflow Audit + One Automation Fix for marketing operations, agencies, content, and B2B teams that need one repeated manual workflow cleaned up fast.
 
 This is a $99 starter offer for one repeated operational workflow. I turn one messy recurring process into a reusable prompt, checklist, CSV, SOP, or lightweight script.
 
@@ -8,6 +8,7 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 
 - For hire: [AI workflow automation freelancer](FOR-HIRE.md)
 - Marketing operations page: [AI workflow automation consultant for marketing operations](MARKETING-OPS-AUTOMATION.md)
+- Marketing agency page: [AI workflow automation freelancer for marketing agencies](MARKETING-AGENCY-AUTOMATION.md)
 - Public service listing: [$99 AI workflow automation consultant - no-login email intake](https://github.com/ch33rio/dacon_skills.md/issues/2)
 - Fastest ready-to-buy path: [email hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.) with non-sensitive workflow details.
 - Landing preview: [24-hour AI workflow audit page](https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html)
