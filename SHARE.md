@@ -13,6 +13,7 @@ I am offering a small fixed-scope AI workflow audit for teams with one repeated 
 Examples:
 
 - Campaign notes to client-ready recap bullets.
+- Client reporting notes to internal action lists.
 - Lead notes to CRM-ready rows.
 - Intake details to scoped work orders.
 - Spreadsheet cleanup into repeatable CSV templates.
@@ -20,6 +21,8 @@ Examples:
 Starter project: $99 for one workflow audit and one lightweight fix. Work starts after the workflow is qualified, scope is agreed, and payment is received.
 
 For hire page: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
+
+Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 
 Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 
@@ -42,6 +45,8 @@ Public no-login email intake thread, viewable publicly but sign-in required to c
 Do you know a marketing operations, content, B2B, agency, creator, founder, or operator team that repeats the same cleanup or reporting task every week? I have a $99 starter offer to map one workflow and deliver one reusable fix.
 
 If they want the offer, proof samples, and buying path in one place, send them to: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
+
+Marketing agency fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 
 Marketing operations fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 
