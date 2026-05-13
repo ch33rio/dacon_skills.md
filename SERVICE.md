@@ -8,7 +8,7 @@ This is useful for marketing agencies, marketing operations, content, B2B, small
 
 Quick overview:
 
-https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
 
 ## Common Use Cases
 
@@ -34,11 +34,12 @@ https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831
 - Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 - Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 - Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
-- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
+- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
 - Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 - How to buy: https://github.com/ch33rio/dacon_skills.md/blob/main/BUY.md
 - Share packet: https://github.com/ch33rio/dacon_skills.md/blob/main/SHARE.md
 - Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+- HubSpot-style CRM export cleanup sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/hubspot-crm-export-cleanup-sample.md
 - Agency sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 - Content handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/content-brief-to-production-handoff.md
 - B2B signal handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/b2b-signal-notes-to-crm-handoff.md
