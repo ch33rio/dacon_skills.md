@@ -28,11 +28,13 @@ Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/
 
 Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 
-Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
+Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
 
 Offer: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
 
 Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+
+HubSpot-style CRM cleanup proof: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/hubspot-crm-export-cleanup-sample.md
 
 Agency sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 
@@ -60,7 +62,7 @@ If they are ready to buy without using GitHub, they can email: hoonso20@naver.co
 
 If they are signed in and ready to buy through GitHub, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
-For a quick overview, send them: https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
+For a quick overview, send them: https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
 
 ## Safe Boundaries
 
