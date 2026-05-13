@@ -20,6 +20,12 @@ This is for teams that repeatedly do work such as:
 - Summarizing recurring reports into next actions.
 - Building a reusable prompt, spreadsheet template, SOP, or small script for a weekly task.
 
+Focused fit pages:
+
+- [Client reporting automation](../CLIENT-REPORTING-AUTOMATION.md)
+- [Marketing agency automation](../MARKETING-AGENCY-AUTOMATION.md)
+- [Marketing operations automation](../MARKETING-OPS-AUTOMATION.md)
+
 ## What You Get
 
 - A short workflow intake.
