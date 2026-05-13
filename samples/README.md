@@ -14,6 +14,7 @@ The offer is for one repeated workflow with a clear input and useful output. Typ
 
 ## Fit Pages
 
+- CRM cleanup automation: https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
 - Weekly reporting automation: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 - Client reporting automation: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 - Marketing agency automation: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
