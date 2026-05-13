@@ -26,7 +26,7 @@ For the offer and buying path in one place:
 
 https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 
-For non-sensitive qualification questions, use the public intake thread. It is viewable publicly, but GitHub sign-in is required to comment:
+For non-sensitive qualification questions, use the public no-login email intake thread. It is viewable publicly, but GitHub sign-in is required to comment:
 
 https://github.com/ch33rio/dacon_skills.md/issues/1
 
