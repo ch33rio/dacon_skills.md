@@ -28,7 +28,7 @@ Start here:
 - Weekly reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 - CRM cleanup automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
 - CRM cleanup buyer listing for signed-in GitHub buyers; sign-in is required to comment: https://github.com/ch33rio/dacon_skills.md/issues/3
-- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
+- Landing preview: https://rawcdn.githack.com/ch33rio/dacon_skills.md/321daf7e5be7eacdcc95c4d35a21391e79e6be46/public/index.html
 - GitHub buy form for signed-in buyers; GitHub sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread; viewable publicly, GitHub sign-in is required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 - Offer and scope: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
