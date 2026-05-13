@@ -18,6 +18,9 @@ contact_links:
   - name: CRM Cleanup Automation Fit
     url: https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
     about: No GitHub sign-in required to read; shows CRM cleanup and HubSpot-style handoff fit plus direct email path to hoonso20@naver.com.
+  - name: HubSpot CRM Cleanup Automation Fit
+    url: https://github.com/ch33rio/dacon_skills.md/blob/main/HUBSPOT-CRM-CLEANUP-AUTOMATION.md
+    about: No GitHub sign-in required to read; shows HubSpot-style CRM cleanup fit and direct email path to hoonso20@naver.com.
   - name: CRM Cleanup Buyer Listing
     url: https://github.com/ch33rio/dacon_skills.md/issues/3
     about: Viewable publicly; GitHub sign-in is required to comment, so signed-out buyers should email hoonso20@naver.com.
