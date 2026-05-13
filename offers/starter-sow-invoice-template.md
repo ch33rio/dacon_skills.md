@@ -2,11 +2,11 @@
 
 Use this after a prospect confirms a specific repeated workflow and agrees that the $99 starter range is acceptable.
 
-Ready-to-buy email: hoonso20@naver.com
+Ready-to-buy email, no GitHub sign-in required: hoonso20@naver.com
 
-Ready-to-buy intake: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+Ready-to-buy intake for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
-Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
+Public intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 
 Payment is confirmed privately after fit is confirmed. Do not post card numbers, bank details, credentials, private customer data, production secrets, payment details, or confidential client examples in public GitHub issues.
 
