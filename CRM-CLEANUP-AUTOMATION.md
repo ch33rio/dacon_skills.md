@@ -32,6 +32,7 @@ Include `Billing email for private invoice/payment handoff` only in private emai
 
 Signed-in GitHub buyers can also use:
 
+- HubSpot CRM cleanup automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/HUBSPOT-CRM-CLEANUP-AUTOMATION.md
 - CRM cleanup buyer listing: https://github.com/ch33rio/dacon_skills.md/issues/3
 - Weekly reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 - Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
