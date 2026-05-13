@@ -10,6 +10,10 @@ Direct email:
 
 hoonso20@naver.com
 
+Marketing agency fit page:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
+
 Marketing operations fit page:
 
 https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
