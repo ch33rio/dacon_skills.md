@@ -9,7 +9,7 @@ body:
       value: |
         GitHub sign-in is required to submit this issue form. If you are signed out or prefer not to use a public GitHub issue, email the same ready-to-buy details to hoonso20@naver.com. Direct email is the no-login intake path.
 
-        Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, confidential client examples, CRM exports, or payment details.
+        Use this form only for non-sensitive qualification details. Do not post credentials, production secrets, private customer data, confidential client examples, CRM exports, billing email addresses, invoice details, or payment details.
 
         CRM cleanup fit page: https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
 
@@ -19,7 +19,7 @@ body:
 
         Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 
-        After submitting, watch GitHub notifications for fit confirmation. For private examples or payment handoff, email hoonso20@naver.com and reference your GitHub issue.
+        After submitting, watch GitHub notifications for fit confirmation. For private examples, billing email, or payment handoff, email hoonso20@naver.com and reference your GitHub issue.
 
   - type: checkboxes
     id: buying-intent
@@ -79,6 +79,18 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: private-payment-handoff-route
+    attributes:
+      label: Private payment handoff route
+      description: Do not post billing email addresses or payment details in this public issue. Choose how the private invoice/payment handoff should be coordinated.
+      options:
+        - "I will email the billing email privately to hoonso20@naver.com and reference this issue."
+        - "Use GitHub notifications for fit confirmation first; I will send billing details privately after fit is confirmed."
+        - "I need fit confirmation before sharing any private billing route."
+    validations:
+      required: true
+
   - type: checkboxes
     id: budget
     attributes:
@@ -87,6 +99,8 @@ body:
         - label: The $99 starter range is acceptable.
           required: true
         - label: Please confirm fit and send the private payment handoff.
+          required: true
+        - label: I will keep billing email addresses, invoice details, and payment details out of this public issue.
           required: true
 
   - type: textarea
