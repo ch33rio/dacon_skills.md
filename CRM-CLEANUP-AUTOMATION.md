@@ -26,7 +26,9 @@ Fastest path: email non-sensitive CRM workflow details to `hoonso20@naver.com`. 
 
 Ready-to-buy email:
 
-[Open a pre-filled CRM cleanup email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20CRM%20cleanup%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20CRM%20cleanup%20workflow%20starter.%0A%0ACRM%20or%20handoff%20workflow%3A%0AMessy%20input%3A%0ADesired%20CRM%20or%20team%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
+[Open a pre-filled CRM cleanup email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20CRM%20cleanup%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20CRM%20cleanup%20workflow%20starter.%0A%0ACRM%20or%20handoff%20workflow%3A%0AMessy%20input%3A%0ADesired%20CRM%20or%20team%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0ABilling%20email%20for%20private%20invoice%2Fpayment%20handoff%3A%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
+
+Include `Billing email for private invoice/payment handoff` only in private email. Do not post billing email addresses, invoice details, payment details, CRM exports, or confidential examples in public GitHub issues.
 
 Signed-in GitHub buyers can also use:
 
@@ -51,6 +53,6 @@ Signed-in GitHub buyers can also use:
 
 Work starts only after the workflow is qualified, scope is agreed, and payment is received. Payment is handled privately after fit is confirmed.
 
-Do not post credentials, private customer data, production secrets, payment details, CRM exports, or confidential client examples in public GitHub issues.
+Do not post credentials, private customer data, production secrets, billing email addresses, invoice details, payment details, CRM exports, or confidential client examples in public GitHub issues.
 
 Contact: hoonso20@naver.com
