@@ -6,7 +6,7 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 
 - For hire: [AI workflow automation freelancer](FOR-HIRE.md)
 - Fastest ready-to-buy path: [email hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.) with non-sensitive workflow details.
-- Landing preview: [24-hour AI workflow audit page](https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html)
+- Landing preview: [24-hour AI workflow audit page](https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html)
 - Ready to buy: email `Ready to buy the $99 starter` to `hoonso20@naver.com`; signed-in GitHub buyers can also use the [structured buy form](https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml) or comment on the [public intake thread](https://github.com/ch33rio/dacon_skills.md/issues/1) with non-sensitive workflow details. GitHub sign-in is required to submit forms or comments.
 - How to buy: [Buy the $99 workflow audit](BUY.md)
 - Service overview: [AI Workflow Automation Service](SERVICE.md)
