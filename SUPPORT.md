@@ -28,7 +28,7 @@ https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audi
 
 For a quick overview, use the landing preview:
 
-https://rawcdn.githack.com/ch33rio/dacon_skills.md/1745b44d4ed8db7ab4132ef18b831f718b0c9216/public/index.html
+https://rawcdn.githack.com/ch33rio/dacon_skills.md/236b3a2f1f01f93e2ca75dfcee758935ba8f6734/public/index.html
 
 For proof samples, use the sample index:
 
