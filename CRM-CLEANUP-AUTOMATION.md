@@ -41,6 +41,7 @@ Signed-in GitHub buyers can also use:
 
 ## Proof
 
+- HubSpot-style CRM export cleanup sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/hubspot-crm-export-cleanup-sample.md
 - Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 - CRM cleanup sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/lead-notes-to-crm-demo.md
 - B2B signal handoff sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/b2b-signal-notes-to-crm-handoff.md
