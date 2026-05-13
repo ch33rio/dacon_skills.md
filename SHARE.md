@@ -29,11 +29,11 @@ Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples
 
 Agency sample: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 
-Ready-to-buy email: hoonso20@naver.com
+Ready-to-buy email, no GitHub sign-in required: hoonso20@naver.com
 
-Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+Ready-to-buy form for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
-Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
+Public intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 
 ## Referral Ask
 
@@ -45,7 +45,7 @@ Proof samples: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/READ
 
 If they are ready to buy without using GitHub, they can email: hoonso20@naver.com
 
-If they are ready to buy through GitHub, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+If they are signed in and ready to buy through GitHub, send them directly to: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 
 For a quick overview, send them: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
 
