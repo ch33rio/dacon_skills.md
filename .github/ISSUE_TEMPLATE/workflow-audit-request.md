@@ -8,7 +8,7 @@ assignees: "ch33rio"
 
 ## Direct private option
 
-If you prefer not to use a public GitHub issue, email the same ready-to-buy or fit-check details to hoonso20@naver.com.
+GitHub sign-in is required to submit this public issue. If you are signed out or prefer not to use a public GitHub issue, email the same ready-to-buy or fit-check details to hoonso20@naver.com.
 
 ## Proof samples
 
