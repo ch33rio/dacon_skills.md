@@ -30,6 +30,8 @@ Ready-to-buy email:
 
 Signed-in GitHub buyers can also use:
 
+- Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
+- Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 - Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread, viewable publicly but sign-in required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 - Service listing: https://github.com/ch33rio/dacon_skills.md/issues/2
