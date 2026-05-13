@@ -2,7 +2,7 @@
 
 $99 starter offer for one repeated operational workflow. I turn one messy recurring process into a reusable prompt, checklist, CSV, SOP, or lightweight script.
 
-Useful for teams that repeatedly turn messy notes, intake details, campaign observations, support examples, or spreadsheet rows into a cleaner output.
+Useful for marketing operations, content, and B2B teams that repeatedly turn messy notes, intake details, campaign observations, support examples, or spreadsheet rows into a cleaner output.
 
 - For hire: [AI workflow automation freelancer](FOR-HIRE.md)
 - Public service listing: [AI workflow automation consultant for marketing operations](https://github.com/ch33rio/dacon_skills.md/issues/2)
