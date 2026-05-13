@@ -11,10 +11,10 @@ contact_links:
     about: Inspect sample deliverables before emailing hoonso20@naver.com or opening a signed-in GitHub issue.
   - name: Buy the $99 Workflow Audit
     url: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
-    about: Requires GitHub sign-in to submit; signed-out buyers should email hoonso20@naver.com from the for-hire or buy page.
-  - name: Public Intake Thread
+    about: Requires GitHub sign-in to submit; signed-out buyers should email hoonso20@naver.com from the no-login intake path.
+  - name: Public No-Login Email Intake Thread
     url: https://github.com/ch33rio/dacon_skills.md/issues/1
-    about: Viewable publicly; GitHub sign-in is required to comment, so email hoonso20@naver.com if signed out.
+    about: Viewable publicly; GitHub sign-in is required to comment, so signed-out buyers should email hoonso20@naver.com.
   - name: Offer and Scope
     url: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
     about: Review the offer, deliverables, proof samples, and payment terms before emailing hoonso20@naver.com or submitting signed-in intake.
