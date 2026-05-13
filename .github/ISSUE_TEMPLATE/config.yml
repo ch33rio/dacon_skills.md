@@ -2,19 +2,19 @@ blank_issues_enabled: false
 contact_links:
   - name: For Hire: AI Workflow Automation Freelancer
     url: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
-    about: Start here if you want the $99 starter offer, proof samples, and buying path in one place, including direct email intake.
+    about: No GitHub sign-in required to read; use the direct email path there for ready-to-buy intake.
   - name: Preview the $99 Workflow Audit
     url: https://rawcdn.githack.com/ch33rio/dacon_skills.md/2fd5dcf45d353615db79fddb627bd770e1524e87/public/index.html
-    about: Review the short landing preview with email and GitHub intake options before opening intake.
+    about: No GitHub sign-in required to preview; includes direct email plus signed-in GitHub intake options.
   - name: Proof Sample Index
     url: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
-    about: Inspect sample deliverables before opening a buy or fit-check issue.
+    about: Inspect sample deliverables before emailing or opening a signed-in GitHub issue.
   - name: Buy the $99 Workflow Audit
     url: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
-    about: Use this when you are ready to buy through GitHub if the workflow fits the starter scope.
+    about: Requires GitHub sign-in to submit; signed-out buyers should use direct email from the for-hire or buy page.
   - name: Public Intake Thread
     url: https://github.com/ch33rio/dacon_skills.md/issues/1
-    about: Ask non-sensitive qualification questions or post a lightweight workflow summary.
+    about: Viewable publicly; GitHub sign-in is required to comment, so use direct email if signed out.
   - name: Offer and Scope
     url: https://github.com/ch33rio/dacon_skills.md/blob/main/offers/ai-workflow-audit.md
-    about: Review the offer, deliverables, proof samples, and payment terms before submitting.
+    about: Review the offer, deliverables, proof samples, and payment terms before emailing or submitting signed-in intake.
