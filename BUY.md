@@ -35,18 +35,20 @@ https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
 
 ## 2. Start Intake
 
+Fastest path: send non-sensitive workflow details by direct email. GitHub forms and issue comments are useful for signed-in GitHub buyers, but GitHub may ask signed-out visitors to log in first.
+
 Use one of these paths:
 
 - Direct email: [hoonso20@naver.com](mailto:hoonso20@naver.com)
 - Email ready-to-buy template: [open a pre-filled email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
 - For hire overview: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
-- Structured buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
-- Public intake thread: https://github.com/ch33rio/dacon_skills.md/issues/1
-- General request form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
+- Structured buy form for signed-in GitHub buyers: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
+- Public intake thread for signed-in GitHub comments: https://github.com/ch33rio/dacon_skills.md/issues/1
+- General request form for signed-in GitHub users: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
 
 Fastest buying signal:
 
-If the $99 starter range is acceptable and the workflow is non-sensitive, email `hoonso20@naver.com`, use the structured buy form, or comment on the public intake thread with:
+If the $99 starter range is acceptable and the workflow is non-sensitive, email `hoonso20@naver.com` with:
 
 ```text
 Ready to buy the $99 starter.
