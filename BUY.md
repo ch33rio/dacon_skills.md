@@ -18,6 +18,10 @@ Marketing agency page:
 
 https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 
+Client reporting automation page:
+
+https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
+
 ## 1. Check Fit
 
 The starter offer is for one repeated workflow with a clear input and desired output.
@@ -53,6 +57,7 @@ Use one of these paths:
 - For hire overview: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 - Marketing operations overview: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 - Marketing agency overview: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
+- Client reporting automation overview: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 - Structured buy form for signed-in GitHub buyers; sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
 - Public no-login email intake thread; viewable publicly, sign-in is required to comment: https://github.com/ch33rio/dacon_skills.md/issues/1
 - General request form for signed-in GitHub users; sign-in is required to submit: https://github.com/ch33rio/dacon_skills.md/issues/new?template=workflow-audit-request.md
