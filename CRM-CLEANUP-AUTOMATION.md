@@ -30,7 +30,7 @@ Ready-to-buy email:
 
 Signed-in GitHub buyers can also use:
 
-- CRM cleanup buyer listing: https://github.com/ch33rio/dacon_skills.md/issues/4
+- CRM cleanup buyer listing: https://github.com/ch33rio/dacon_skills.md/issues/3
 - Weekly reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 - Client reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CLIENT-REPORTING-AUTOMATION.md
 - Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
