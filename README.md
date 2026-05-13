@@ -12,6 +12,7 @@ Useful for teams that repeatedly turn messy notes, intake details, campaign obse
 - Client reporting automation page: [client reporting automation consultant for marketing agencies](CLIENT-REPORTING-AUTOMATION.md)
 - Weekly reporting automation page: [weekly reporting automation consultant for marketing agencies](WEEKLY-REPORTING-AUTOMATION.md)
 - CRM cleanup automation page: [CRM cleanup automation consultant for marketing teams](CRM-CLEANUP-AUTOMATION.md)
+- HubSpot CRM cleanup page: [HubSpot CRM cleanup automation consultant](HUBSPOT-CRM-CLEANUP-AUTOMATION.md)
 - CRM cleanup buyer listing: [$99 CRM cleanup automation consultant - no-login email intake](https://github.com/ch33rio/dacon_skills.md/issues/3)
 - Public service listing: [$99 AI workflow automation consultant - no-login email intake](https://github.com/ch33rio/dacon_skills.md/issues/2)
 - Fastest ready-to-buy path: [email hoonso20@naver.com](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0ABilling%20email%20for%20private%20invoice%2Fpayment%20handoff%3A%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.) with non-sensitive workflow details and, if ready, a billing email for private invoice/payment handoff.
