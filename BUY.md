@@ -65,7 +65,7 @@ Fastest path: send non-sensitive workflow details by direct email. GitHub issue 
 Use one of these paths:
 
 - Direct email: [hoonso20@naver.com](mailto:hoonso20@naver.com)
-- Email ready-to-buy template: [open a pre-filled email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
+- Email ready-to-buy template: [open a pre-filled email](mailto:hoonso20@naver.com?subject=Ready%20to%20buy%20the%20%2499%20workflow%20audit&body=Ready%20to%20buy%20the%20%2499%20starter.%0A%0AWorkflow%3A%0AMessy%20input%3A%0ADesired%20output%3A%0ATools%20involved%3A%0ASafe%20sample%20available%3A%20yes%2Fno%0ABilling%20email%20for%20private%20invoice%2Fpayment%20handoff%3A%0A%0APlease%20confirm%20fit%20and%20send%20the%20private%20payment%20handoff.)
 - For hire overview: https://github.com/ch33rio/dacon_skills.md/blob/main/FOR-HIRE.md
 - Marketing operations overview: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 - Marketing agency overview: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
@@ -79,7 +79,7 @@ Use one of these paths:
 
 Fastest buying signal:
 
-If the $99 starter range is acceptable and the workflow is non-sensitive, email `hoonso20@naver.com` with the details below. Signed-in GitHub buyers can use the structured buy form with the same details.
+If the $99 starter range is acceptable and the workflow is non-sensitive, email `hoonso20@naver.com` with the details below. Signed-in GitHub buyers can use the structured buy form with the same details. If you already know who should receive the private invoice or payment handoff, include the billing email so payment can be handled without another round trip.
 
 ```text
 Ready to buy the $99 starter.
@@ -89,6 +89,7 @@ Messy input:
 Desired output:
 Tools involved:
 Safe sample available: yes/no
+Billing email for private invoice/payment handoff:
 
 Please confirm fit and send the private payment handoff.
 ```
@@ -119,7 +120,7 @@ https://github.com/ch33rio/dacon_skills.md/blob/main/offers/starter-sow-invoice-
 
 Work starts only after payment is received and the complete intake materials are available.
 
-The payment method is confirmed privately after the workflow is qualified. Do not post payment details, credentials, private customer data, or production secrets in public GitHub issues.
+The payment method is confirmed privately after the workflow is qualified. If you are ready to proceed, include the billing email for the private invoice or payment handoff in your first message. Do not post payment details, credentials, private customer data, or production secrets in public GitHub issues.
 
 ## 5. Delivery
 
