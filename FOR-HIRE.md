@@ -51,6 +51,7 @@ Please confirm fit and send the private payment handoff.
 Proof samples:
 
 - Proof sample index: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/README.md
+- HubSpot-style CRM export cleanup: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/hubspot-crm-export-cleanup-sample.md
 - Campaign recap: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/campaign-notes-to-client-recap.md
 - Content handoff: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/content-brief-to-production-handoff.md
 - B2B signal handoff: https://github.com/ch33rio/dacon_skills.md/blob/main/samples/b2b-signal-notes-to-crm-handoff.md
