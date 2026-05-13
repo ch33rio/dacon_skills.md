@@ -10,6 +10,7 @@ I turn one recurring reporting workflow into a reusable prompt, checklist, recap
 - Client meeting notes need to become internal action lists.
 - Spreadsheet rows need repeatable cleanup before a report is sent.
 - Paid media, SEO, content, or B2B teams need consistent weekly reporting notes.
+- Weekly reporting updates need the same client-ready structure every time.
 - Account managers need a safer handoff from raw notes to client commentary.
 
 ## What You Get
@@ -30,6 +31,7 @@ Ready-to-buy email:
 
 Signed-in GitHub buyers can also use:
 
+- Weekly reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 - Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 - Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
 - Ready-to-buy form: https://github.com/ch33rio/dacon_skills.md/issues/new?template=buy-workflow-audit.yml
