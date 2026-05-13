@@ -11,6 +11,7 @@ I turn one recurring reporting workflow into a reusable prompt, checklist, recap
 - Spreadsheet rows need repeatable cleanup before a report is sent.
 - Paid media, SEO, content, or B2B teams need consistent weekly reporting notes.
 - Weekly reporting updates need the same client-ready structure every time.
+- CRM or pipeline context needs to be summarized without exposing private customer data.
 - Account managers need a safer handoff from raw notes to client commentary.
 
 ## What You Get
@@ -31,6 +32,7 @@ Ready-to-buy email:
 
 Signed-in GitHub buyers can also use:
 
+- CRM cleanup automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/CRM-CLEANUP-AUTOMATION.md
 - Weekly reporting automation page: https://github.com/ch33rio/dacon_skills.md/blob/main/WEEKLY-REPORTING-AUTOMATION.md
 - Marketing agency page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-AGENCY-AUTOMATION.md
 - Marketing operations page: https://github.com/ch33rio/dacon_skills.md/blob/main/MARKETING-OPS-AUTOMATION.md
